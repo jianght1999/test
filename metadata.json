@@ -1,0 +1,5 @@
+{
+  "name": "极简图片展示",
+  "description": "纯净的图片展示页面，直接读取并呈现 photo.jpg。",
+  "requestFramePermissions": []
+}
